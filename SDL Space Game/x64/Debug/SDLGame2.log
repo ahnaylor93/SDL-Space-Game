@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(65,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(66,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(157,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(158,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(305,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(331,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(337,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(343,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(349,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(398,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\main.cpp(398,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SDLGame2.vcxproj -> C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\x64\Debug\SDLGame2.exe

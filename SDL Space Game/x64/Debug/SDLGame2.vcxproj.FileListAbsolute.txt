@@ -1,0 +1,8 @@
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_11\SDLGame2\x64\Debug\SDLGame2.exe
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_11\SDLGame2\x64\Debug\SDLGame2.pdb
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_12\SDLGame2\x64\Debug\SDLGame2.exe
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_12\SDLGame2\x64\Debug\SDLGame2.pdb
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_13\SDLGame2\x64\Debug\SDLGame2.exe
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_13\SDLGame2\x64\Debug\SDLGame2.pdb
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\x64\Debug\SDLGame2.exe
+C:\TSTC\Advanced Computer Programming\ANaylorCPPA3_14\SDLGame2\x64\Debug\SDLGame2.pdb
